@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Snake](https://raw.githubusercontent.com/LanceAntor/LanceAntor/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LanceAntor/LanceAntor/output/github-snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/LanceAntor/LanceAntor/output/github-snake-dark.svg#gh-dark-mode-only" />
+</p>
+
 
 
