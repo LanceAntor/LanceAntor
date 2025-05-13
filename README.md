@@ -6,7 +6,7 @@
 
 
 
-I’m a passionate **Computer Science** student with a strong foundation in full-stack development and a deep interest in solving real-world problems through technology. I thrive on building scalable, efficient applications that deliver meaningful impact. Continuously driven to learn and grow, I actively embrace emerging technologies, modern development methodologies, and best practices to refine my technical expertise. Highly adaptable and forward-thinking, I’m committed to creating innovative solutions that enhance usability, optimize performance, and contribute to a more efficient digital future.
+I’m a passionate Computer Science student with a strong foundation in software development and web development. Experienced in implementing and managing application development strategies and optimizing user experiences.  Continuously driven to learn and grow, I actively embrace emerging technologies, modern development methodologies, and best practices to refine my technical expertise. Highly adaptable and forward-thinking, I’m committed to creating innovative solutions that enhance usability, optimize performance, and contribute to a more efficient digital future.
 
 ## Interest
 - 🚀 I’m always excited to collaborate on innovative projects that challenge me and help drive meaningful impact.
