@@ -67,8 +67,18 @@ I’m a passionate **Computer Science** student with a strong foundation in full
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<<<<<<< HEAD
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LanceAntor/LanceAntor/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LanceAntor/LanceAntor/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/LanceAntor/LanceAntor/output/github-snake.svg" />
 </picture>
+=======
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LanceAntor/LanceAntor/output/github-snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/LanceAntor/LanceAntor/output/github-snake-dark.svg#gh-dark-mode-only" />
+</p>
+
+
+
+>>>>>>> c41d228723da63ad019f3803cde425144672708d
